@@ -16,3 +16,12 @@ int main() {
   return 0;
 }
 
+// 2d array
+int main() {
+  int arr[3][5];
+
+//assigning
+arr[1][3] = 78;
+cout << arr[1][3];
+  return 0;
+}
