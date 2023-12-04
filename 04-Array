@@ -25,3 +25,13 @@ arr[1][3] = 78;
 cout << arr[1][3];
   return 0;
 }
+
+
+///strings
+int main(){
+string s = "jatin";
+int len = s.size();
+cout << s[len - 1];
+return 0;
+};
+cout << s[2];
